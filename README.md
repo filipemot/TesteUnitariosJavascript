@@ -1,6 +1,8 @@
 
 **Testes Unitário em Javascript com Jest**
 
+Projeto contendo a inicialização de criação de testes com Javascript
+
 **Criar Projeto**
 
     npm -init -y
