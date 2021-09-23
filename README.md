@@ -85,7 +85,9 @@ describe('time function', () => {
 
 **Executa Teste**
 
+```jsx
 npm test
+```
 
 **Before All - Executa antes de todos os testes**
 
