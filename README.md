@@ -7,9 +7,15 @@ Baseado no Vídeo do Canal do DevPleno [https://www.youtube.com/watch?v=MQs8_KIj
 **Criar Projeto**
 npm -init -y
 
+```jsx
+npm -init -y
+```
+
 **Instalar JEST**
 
+```jsx
 npm install --save-dev jest
+```
 
 **Alterar no package json o test para utilizar jest**
 
