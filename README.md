@@ -9,7 +9,7 @@ npm -init -y
 
 **Instalar JEST**
 
-npm install —save-dev jest
+npm install --save-dev jest
 
 **Alterar no package json o test para utilizar jest**
 
